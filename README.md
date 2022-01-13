@@ -3,5 +3,5 @@ Currently studying towards:
 * Cisco DevNet Associate (January 2022) :lock:
 * CCNP ENCOR(March 2022) :lock:
 * CCNP ENARSI (April 2022) :lock:
-* Python(Free time after studying in Codeacademy) :godmode:
+* Python(Free time after studying) :godmode:
 * TryHackme(Free time after studying) :kimono: [monksec](https://tryhackme.com/p/monksec)
